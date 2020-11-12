@@ -13,5 +13,5 @@ lexicon - words and their means
 word  |  speak  |   means 
 --------------------------
 'bull'|      investor   |   someone who is positive about the market
-  ,,  | reguler english | scary animal you don't want running @ you
+'bull'| reguler english | scary animal you don't want running @ you
 ``` 
