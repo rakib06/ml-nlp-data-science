@@ -1,0 +1,90 @@
+absl-py @ file:///D:/bld/absl-py_1602289572493/work
+argon2-cffi==20.1.0
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+astroid==2.4.2
+async-generator==1.10
+attrs==20.3.0
+backcall==0.2.0
+bleach==3.2.1
+cached-property==1.5.1
+certifi==2020.6.20
+cffi==1.14.3
+click==7.1.2
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
+google-pasta==0.2.0
+grpcio @ file:///D:/bld/grpcio_1604365766492/work
+h5py @ file:///D:/bld/h5py_1604753857493/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
+ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593446240034/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==5.6.4
+jedi @ file:///C:/ci/jedi_1596472773465/work
+Jinja2==2.11.2
+joblib==0.17.0
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-console==6.2.0
+jupyter-core==4.6.3
+jupyterlab-pygments==0.1.2
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+lazy-object-proxy==1.4.3
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1603668500820/work
+MarkupSafe==1.1.1
+mccabe==0.6.1
+mistune==0.8.4
+nbclient==0.5.1
+nbconvert==6.0.7
+nbformat==5.0.8
+nest-asyncio==1.4.3
+nltk==3.5
+notebook==6.1.5
+numpy @ file:///D:/bld/numpy_1604946136447/work
+packaging==20.4
+pandocfilters==1.4.3
+parso==0.7.0
+pickleshare==0.7.5
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.13.0
+pycparser==2.20
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+pylint==2.6.0
+pyparsing==2.4.7
+pyreadline @ file:///D:/bld/pyreadline_1602253116910/work
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.2
+qtconsole==4.7.7
+QtPy==1.9.0
+regex==2020.11.11
+scipy @ file:///C:/bld/scipy_1604304921754/work
+Send2Trash==1.5.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tensorboard==1.14.0
+tensorflow @ file:///D:/bld/tensorflow_1594833539645/work/tensorflow-1.14.0-cp36-cp36m-win_amd64.whl
+tensorflow-estimator==1.14.0
+termcolor==1.1.0
+terminado==0.9.1
+testpath==0.4.4
+toml==0.10.2
+tornado==6.0.4
+tqdm==4.51.0
+traitlets==4.3.3
+typed-ast==1.4.1
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+wrapt==1.12.1
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
